@@ -48,6 +48,6 @@ Open sidebar
     Click Element  id:signIn
     Sleep  1s
     Click Element  id:sidebarOpen
-    Element Should Contain  id:billing  Billing
+    Element Should Contain  id:billing  Invoices
     Sleep  1s  
     Close Browser
